@@ -26,7 +26,7 @@ const Homepage = () => {
             <div className="slide text-section">
                 <h1 className="title" style={{ fontSize: '30px' }}>นายคณบดี เเสงเมือง (อิศร์)</h1>
                 <h2 className="subtitle" style={{ textAlign: 'center' }}>เจ้าภาพงาน</h2>
-                <p>นายฉไน - นางอุทัย สว่างวงษ์ (คุณตา - คุณยาย)</p>
+                <p>นายไฉน - นางอุทัย สว่างวงษ์ (คุณตา - คุณยาย)</p>
                 <p>นางทองหลาง เเสงเมือง</p>
                 <p>นายจีระศักดิ์ เเสงเมือง (บิดา - มารดา)</p>
                 <p style={{ fontSize: '14px' }}>
@@ -136,7 +136,7 @@ const Homepage = () => {
                 <img
                     src={Bg}
                     alt="ภาพนาคกับวัด"
-                    style={{ width: '600px', height: '' }}
+                    style={{ width: '400px', height: '' }}
                     className="ordination-image animated"
                 />
             </div>
